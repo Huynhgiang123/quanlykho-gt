@@ -5,3 +5,4 @@ class CommentAdminSite(admin.AdminSite):
  site_header = 'c8admin'
  index_title = 'Welcome to c8admin'
  logout_template = "comment8or/logged_out.html"
+ huynhgiang
